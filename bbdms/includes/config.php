@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
+define('DB_HOST','jyosql.mysql.database.azure.com');
+define('DB_USER','jyo');
+define('DB_PASS','Anshtoyj@1234');
 define('DB_NAME','bbdms');
 // Establish database connection.
 try
