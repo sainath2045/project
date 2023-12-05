@@ -2,7 +2,7 @@
 // DB credentials.
 define('DB_HOST','jyosql.mysql.database.azure.com');
 define('DB_USER','jyo');
-define('DB_PASS','Anshtoyj@1234');
+define('DB_PASS','qwerty@12345');
 define('DB_NAME','bbdms');
 // Establish database connection.
 try
